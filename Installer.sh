@@ -1,3 +1,4 @@
+pkg install tree
 cd /sdcard
 mkdir Encrypted
 tree | lolcat
