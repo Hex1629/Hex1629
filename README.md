@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @Hex1629
-Create Virus in termux
+Welcome to Fake Ransomware in Termux
+Code by Me
+
+How To Install
