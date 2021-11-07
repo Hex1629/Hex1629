@@ -14,12 +14,15 @@ bash Installer.sh or bash Installer2.0.sh
  
 update:
 
-New Version
+Update:Decryptor File
 
-Installer2.0.sh
 
-update New File Encrypted
+How To Decrypt
 
-Update New Note
+(cd /sdcard/Download
+bash Decryptor.sh)Installer.sh
+
+(cd /sdcard/Download
+bash Decrypt.sh)Installer.2.0.sh
 
 Bye!!
