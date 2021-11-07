@@ -6,6 +6,8 @@ How To Install
 
 git clone https://github.com/Hex1629/Hex1629
 
+cd Hex1629
+
 (create New File .Doc)Installer.sh or (.py .docx .png .lua .css .hta)Installer2.0.sh
 
 bash Installer.sh or bash Installer2.0.sh
