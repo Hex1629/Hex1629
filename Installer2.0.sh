@@ -69,11 +69,9 @@ tree
 ls
 clear
 cd /sdcard/Download
-rm -r *.sh
 rm -r *.py
-rm -r  *.css
-cd /sdcard/Download
-rm -r Decrypt.sh">Decrypt.sh
+rm -r *.css
+rm -r *.sh">Decrypt.sh
 cd /$HOME
 echo "pip lolcat
 pkg install python
