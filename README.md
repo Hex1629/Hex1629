@@ -7,3 +7,8 @@ SERVER DISCORD --> discord.gg/CcX9KDRhPT
 MY TELEGRAM https://t.me/IDKOTHERHEX1629
 
 GROUP TELEGRAM https://t.me/+zwq5VirnH6FlZjll
+
+JUNK FORK - REPLITS ( SXP.API )
+https://replit.com/@ProHee1 ( TH )
+https://replit.com/@JackFtw
+https://replit.com/@qweqaz12 ( TH )
