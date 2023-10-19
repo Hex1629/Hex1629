@@ -4,6 +4,8 @@ MY DISCORD IDKHEX1629#3051
 
 SERVER DISCORD --> discord.gg/CcX9KDRhPT
 
+FB --> www.facebook.com/profile.php?id=100079069926798
+
 MY TELEGRAM https://t.me/IDKOTHERHEX1629
 
 GROUP TELEGRAM https://t.me/+zwq5VirnH6FlZjll
