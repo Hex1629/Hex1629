@@ -2,7 +2,8 @@
 
 MY DISCORD IDKHEX1629#3051
 
-SERVER DISCORD --> discord.gg/CcX9KDRhPT
+SERVER DISCORD  --> discord.gg/CcX9KDRhPT
+URANIUM SUPPORT --> https://discord.gg/SeXy5jAEUd
 
 FB --> www.facebook.com/profile.php?id=100079069926798
 
