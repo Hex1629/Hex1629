@@ -4,7 +4,7 @@ FB --> www.facebook.com/profile.php?id=100079069926798
 
 MY TELEGRAM https://t.me/IDKOTHERHEX1629
 
-GROUP TELEGRAM https://t.me/+zwq5VirnH6FlZjll
+GROUP TELE https://t.me/+WpR2XtW7NZxmZjc1
 
 JUNK FORK - REPLITS ( SXP.API )
 https://replit.com/@ProHee1 ( TH )
