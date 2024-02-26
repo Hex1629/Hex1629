@@ -8,7 +8,6 @@ GROUP TELE https://t.me/+WpR2XtW7NZxmZjc1
 
 PROOF GROUP https://t.me/+gcA7xQYlsK83ZmRl
 
-JUNK FORK - REPLITS ( SXP.API )
-https://replit.com/@ProHee1 ( TH )
-https://replit.com/@JackFtw
-https://replit.com/@qweqaz12 ( TH )
+![Screenshot 2024-02-26 224644](https://github.com/Hex1629/Hex1629/assets/93824226/4191fbe3-66f7-491a-b1ee-101dd7524572)
+
+DON'TT TRUST SCAMMER
