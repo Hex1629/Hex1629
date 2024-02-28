@@ -6,6 +6,11 @@ MY TELEGRAM https://t.me/IDKOTHERHEX1629
 
 GROUP TELE https://t.me/+WpR2XtW7NZxmZjc1
 
+IF YOU CAN'T JOIN GROUP
+
+![photo_2024-02-29_01-05-52](https://github.com/Hex1629/Hex1629/assets/93824226/3aeb2613-91d9-42c5-ad5a-4f10f33676fa)
+
+
 PROOF GROUP https://t.me/+gcA7xQYlsK83ZmRl
 
 ![Screenshot 2024-02-26 224644](https://github.com/Hex1629/Hex1629/assets/93824226/4191fbe3-66f7-491a-b1ee-101dd7524572)
