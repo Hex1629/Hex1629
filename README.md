@@ -11,6 +11,18 @@ ARCHIVED - CRYPTHEX, RANSOMWARE, MALWARE, SXPv2, SXP, SP, API-DOS, HEX-BOTS, AES
 2024.06.07 - 2024.06.07 [AES-TEST](https://github.com/Hex1629/AES-TEST) ARCHIVE!!!
 #
 
+# STATUS
+### SOCKETPIE
+<img src="https://img.shields.io/github/stars/Hex1629/SOCKETPIE_DOSTOOL?&style=for-the-badge&logo=python"/> <img src="https://img.shields.io/github/forks/Hex1629/SOCKETPIE_DOSTOOL?&style=for-the-badge&logo=python"/>
+
+### SOCKETEXPLODE
+<img src="https://img.shields.io/github/stars/Hex1629/SOCKETEXPLODE_DOSTOOL?&style=for-the-badge&logo=python"/> <img src="https://img.shields.io/github/forks/Hex1629/SOCKETEXPLODE_DOSTOOL?&style=for-the-badge&logo=python"/>
+
+### SOCKETEXPLODEv2
+<img src="https://img.shields.io/github/stars/Hex1629/SOCKETEXPLODEv2_DOSTOOL?&style=for-the-badge&logo=python"/> <img src="https://img.shields.io/github/forks/Hex1629/SOCKETEXPLODEv2_DOSTOOL?&style=for-the-badge&logo=python"/>
+
+#
+
 # SUPPORT ( IF I CAN ) < BUT IT'S UP EMOTION >
 MY TOOL, BOTNET, ETC and I CAN CRAFT PAYLOAD BASH
 #
